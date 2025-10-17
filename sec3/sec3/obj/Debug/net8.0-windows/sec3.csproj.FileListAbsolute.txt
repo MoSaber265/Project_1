@@ -1,0 +1,16 @@
+D:\study\Computer Graphics\labs\sec3\sec3\bin\Debug\net8.0-windows\sec3.exe
+D:\study\Computer Graphics\labs\sec3\sec3\bin\Debug\net8.0-windows\sec3.deps.json
+D:\study\Computer Graphics\labs\sec3\sec3\bin\Debug\net8.0-windows\sec3.runtimeconfig.json
+D:\study\Computer Graphics\labs\sec3\sec3\bin\Debug\net8.0-windows\sec3.dll
+D:\study\Computer Graphics\labs\sec3\sec3\bin\Debug\net8.0-windows\sec3.pdb
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.Form1.resources
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.csproj.GenerateResource.cache
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.AssemblyInfoInputs.cache
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.AssemblyInfo.cs
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.csproj.CoreCompileInputs.cache
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.dll
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\refint\sec3.dll
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.pdb
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\sec3.genruntimeconfig.cache
+D:\study\Computer Graphics\labs\sec3\sec3\obj\Debug\net8.0-windows\ref\sec3.dll

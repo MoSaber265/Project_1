@@ -1,0 +1,17 @@
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\bin\Debug\net8.0-windows\LoginApp.exe
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\bin\Debug\net8.0-windows\LoginApp.deps.json
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\bin\Debug\net8.0-windows\LoginApp.runtimeconfig.json
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\bin\Debug\net8.0-windows\LoginApp.dll
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\bin\Debug\net8.0-windows\LoginApp.pdb
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.HomeForm.resources
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.WelcomeForm.resources
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.csproj.GenerateResource.cache
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.AssemblyInfoInputs.cache
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.AssemblyInfo.cs
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.csproj.CoreCompileInputs.cache
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.dll
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\refint\LoginApp.dll
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.pdb
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.genruntimeconfig.cache
+D:\study\Computer Graphics\labs\LoginApp\LoginApp\obj\Debug\net8.0-windows\ref\LoginApp.dll

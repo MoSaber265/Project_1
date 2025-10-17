@@ -1,0 +1,84 @@
+                        ---Welcome To Git Course---
+--> first:create Your repository
+    : 1-enter to your dir "/d/study/Computer\ Graphics/labs"
+    : 2- git init --> to make dir as repo
+      هيتكون عندك ملف مخفي , لو عايز تعرفه : ls -a
+--> how insert files to your repo
+    : 1- git add filename
+    عشان اتاكد بقا اني ضيفت الملف ---> git status
+    : 2: make message --> git commit -m "message" 
+         ولازم اتاكد بعدها ب git status
+
+
+----------------------------------------------------------------------
+            ****Write correctly message for git****
+-->ADD : git commit -m "ADD FileName"
+-->FIX : git commit -m "fix FileName,explain what you fix"
+-->UPD : git commit -m "UPD FileName,explain what you update"
+-->DEL : git commit -m "DEL FileName"
+----------------------------------------------------------------------
+Notes: to known the steps of creation
+         --> git log 
+
+----------------------------------------------------------------------
+                  ------------------
+                  | Different files|
+                  ------------------
+--> if you make any modifiy in file --> use git add 
+--> to know the diff in repo --> git diff
+--> to know the diff in repo --> git diff --staged
+  ++ -> mean you add
+  -- -> mean you delete
+
+
+----------------------------------------------------------------------
+                        ----Logging----
+--> to quire on lines -->git log --oneline -n --> less details
+--> to quire on lines -->git log -n --> more details
+--> to quire by author --> git log --author "author name"
+--> to quire for all update --> git log --stat
+
+----------------------------------------------------------------------
+Note --> if you to make clear commend work --> export TERM=xterm
+
+======================================================================
+                    -----------Delete file----------- 
+1- to remove from repo : git rm fileName
+2- to remove from stage : git rm -f fileName
+3- to remove from worker : rm fileName or del fileName
+=======================================================================
+                 ==========change fileName in Git===========
+1- Rename file in working : mv oldName  NewName
+2- Rename file in repo or stage : git mv oldName  NewName
+
+=======================================================================
+                 ==========Undo change in Git===========
+
+->عشان اعمل حاجة ز ي دي وتشتغل ==لازم يكون الملف علي الورك ديركتوري 
+واعمل بقا ---> git checkout fileName
+هيتراجع عن اللي عمله في الملف  
+==بس خدبالك , لو انا رفعته علي الريبو مش هقدر اعمل عليه تراجع 
+
+--> طب لو عايز اتراجع وانا رافعه ===تعاله اقولك
+
+: git reset HEAD FileName  --> لما اعمل كدا , انا خليت الملف من وضع الاستيدج الي وضع الورك 
+وكدا بقا اقدر اعدل براحتي 
+
+=======================================================================
+                 ==========Edit in last commit===========
+--> git commitn --amend -m "RENAME & UPD note1.txt"
+
+=======================================================================
+                 ==========Retrieve old version===========
+
+
+
+
+
+
+
+
+
+
+
+
