@@ -69,12 +69,20 @@ Note --> if you to make clear commend work --> export TERM=xterm
 --> git commitn --amend -m "RENAME & UPD note1.txt"
 
 =======================================================================
-                 ==========Retrieve old version===========
+                 ==========Reformatting SHA===========
+لو عايز احول الملفات من repo ل working ===> git reset --mixed SHA
+
+=======================================================================
+                 ==========Reformatting SHA Hard===========
+
+git reset --hard SHA ===>delete last updata
+
+=======================================================================
+                 ==========Hide Files in Git===========
 
 
 
-
-
+End with this course
 
 
 
